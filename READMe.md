@@ -1,7 +1,7 @@
 # 💫 About Me:
- I`m a FullStack Javascript developer <br>
- I`m looking to collaborate on tests automation <br>
- I`m currently learning javascript typescript cypress<br>
+ I`m FullStack Javascript Developer </br>
+ I`m looking to collaborate on tests automation </br>
+ I`m currently learning javascript typescript cypress </br>
 [![Developer](https://drive.google.com/file/d/1p4mRQI926q0LezExVPIDP-x-K_k1edBY/view?usp=sharing)]
 
 ## 🌐 Socials:
