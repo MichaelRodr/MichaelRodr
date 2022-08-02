@@ -1,8 +1,8 @@
 # 💫 About Me:
 
- # I`m FullStack Javascript Developer <br>
- # I`m looking to collaborate on tests automation <br>
- # I`m currently learning javascript typescript cypress <br>
+ ** I`m FullStack Javascript Developer <br>
+ ** I`m looking to collaborate on tests automation <br>
+ ** I`m currently learning javascript typescript cypress <br>
 [![Developer](https://github.com/MichaelRodr/MichaelRodr/blob/main/assets/FrontendDeveloper.png)]
 
 ## 🌐 Socials:
