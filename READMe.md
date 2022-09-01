@@ -6,7 +6,7 @@
  ### 💙 I`m currently learning javascript typescript cypress <br>
 </div> 
 <div>
-![developer](https://github.com/MichaelRodr/MichaelRodr/blob/main/assets/FrontendDeveloper.png)
+![developer](https://github.com/MichaelRodr/MichaelRodr/blob/main/assets/ilustracionCorel.svg)
 </div>
 </div>
 ## 🌐 Socials:
