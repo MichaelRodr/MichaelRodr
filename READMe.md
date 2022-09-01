@@ -1,14 +1,14 @@
 # 💫 About Me:
-<div>
-<div>
+
+
  ### 👨‍💻 I`m FullStack Javascript Developer <br>
  ### 🤖 I`m looking to collaborate on tests automation <br>
  ### 💙 I`m currently learning javascript typescript cypress <br>
-</div> 
-<div>
-![developer](https://github.com/MichaelRodr/MichaelRodr/blob/main/assets/FrontendDeveloper.png)
-</div>
-</div>
+
+
+![developer](https://github.com/MichaelRodr/MichaelRodr/blob/main/assets/ilustracionCorel.svg)
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/michaelrodriguez-dev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@invesoft) 
 
